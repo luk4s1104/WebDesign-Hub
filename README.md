@@ -15,8 +15,10 @@ A tabela abaixo centraliza o acesso a todos os projetos práticos e laboratório
 
 | Repositório / Projeto | Descrição / O que foi praticado | Links de Acesso |
 | :--- | :--- | :--- |
-| **`Versionamento_de_Codigo-WebDesign`** | Repositório focado exclusivamente na prática de comandos Git e fluxos no GitHub. | [📁 Repositório](https://github.com) |
-| **`Fundamentos_de_HTML_e_CSSinline-WebDesign`** | Estudo de tags semânticas, formatação de textos, cabeçalhos e estilização inline inicial. | [📁 Repositório](https://github.com) |
-| **`Fundamentos_HTML_Midia-WebDesign`** | Exercício cobrindo elementos básicos, inserção de mídias (imagens, áudio, vídeo), formulários e tabelas. | [📁 Repositório](https://github.com) <br> [📎 Resultado Prático](https://tarefa04-web-design.vercel.app/) |
+| **`Versionamento_de_Codigo-WebDesign`** | Repositório focado exclusivamente na prática de comandos Git e fluxos no GitHub. | [📁 Repositório](https://github.com/luk4s1104/Versionamento_de_Codigo-WebDesign) |
+| **`Fundamentos_HTML_Midia-WebDesign`** | Exercício cobrindo elementos básicos, inserção de mídias (imagens, áudio, vídeo), formulários e tabelas. | [📁 Repositório](https://github.com/luk4s1104/Fundamentos_HTML_Midia-WebDesign) <br> [📎 Resultado Prático](https://tarefa04-web-design.vercel.app/) |
+| **`Fundamentos_de_HTML_e_CSSinline-WebDesign`** | Estudo de tags semânticas, formatação de textos, cabeçalhos e estilização inline inicial. | [📁 Repositório](https://github.com/luk4s1104/Fundamentos_de_HTML_e_CSSinline-WebDesign) |
+| **`Fundamentos_HTML_Midia-WebDesign`** | Exercício cobrindo elementos básicos, inserção de mídias (imagens, áudio, vídeo), formulários e tabelas. | [📁 Repositório](https://github.com/luk4s1104/Fundamentos_HTML_Midia-WebDesign) <br> [📎 Resultado Prático](https://tarefa04-web-design.vercel.app/) |
+
 
 
